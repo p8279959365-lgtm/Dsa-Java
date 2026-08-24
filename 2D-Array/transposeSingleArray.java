@@ -49,7 +49,5 @@ class transposeSingleArray
             }
             System.out.println();
         }
-
-
     }
 }

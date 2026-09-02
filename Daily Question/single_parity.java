@@ -1,3 +1,19 @@
+/* we have to make a new array such that all elements are even or all are odd i the second array using the elements of the first array      
+
+if elements initially in array1 are all odd or all even then do nothing return the new array as it is
+
+even-even =even;
+
+
+even-odd=odd
+
+
+we will take all even and convert it into odd array by sunbtyracting from any odd element */
+
+
+
+
+
 import java.util.*;
 class single_parity
 {
